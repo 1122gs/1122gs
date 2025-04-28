@@ -1,16 +1,20 @@
-## Hi there 👋
+💫 About Me:
+Passionate and adaptable software developer with a background in problem-solving, collaboration, and building dynamic, user-focused applications using technologies like React.js, JavaScript, HTML5 and CSS3
 
-<!--
-**1122gs/1122gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+[Facebook](https://facebook.com/Gordon Smith) [LinkedIn](https://linkedin.com/in/Gordon Smith)
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+CSS3 HTML5 JavaScript Python Bootstrap Context-API Flask JWT React React Router Postman Prettier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+
+
+💰 You can help me by Donating
+PayPal
