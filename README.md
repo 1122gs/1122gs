@@ -2,8 +2,9 @@
 Passionate and adaptable software developer with a background in problem-solving, collaboration, and building dynamic, user-focused applications using technologies like React.js, JavaScript, HTML5 and CSS3
 
 🌐 Socials:
+LinkedIn:
+https://www.linkedin.com/in/gordon-smith-476705239/
 
-[Facebook](https://facebook.com/Gordon Smith) [LinkedIn](https://linkedin.com/in/Gordon Smith)
 
 💻 Tech Stack:
 
@@ -23,4 +24,5 @@ CSS3, HTML5, JavaScript, Python, Bootstrap, Context-API, Flask, JWT React, React
 
 💰 You can help me by Donating
 PayPal
+
 @gordonsmith02
